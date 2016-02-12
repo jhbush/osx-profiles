@@ -16,7 +16,8 @@
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>PayloadEnabled</key>
-<true/><key>PayloadRemovalDisallowed</key>
+<true/>
+<key>PayloadRemovalDisallowed</key>
 <true/>
 <key>PayloadScope</key>
 <string>System</string>
