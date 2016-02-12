@@ -26,7 +26,7 @@
 <key>PayloadUUID</key>
 <string>43665A0D-2745-413A-9E25-37ADC1879DA6</string>
 <key>PayloadType</key
-><string>com.apple.ManagedClient.preferences</string>
+<string>com.apple.ManagedClient.preferences</string>
 <key>PayloadOrganization</key>
 <string>Company Inc</string>
 <key>PayloadIdentifier</key>
@@ -40,7 +40,8 @@
 <key>PayloadEnabled</key>
 <true/>
 <key>PayloadContent</key>
-<dict><key>com.microsoft.autoupdate2</key>
+<dict>
+<key>com.microsoft.autoupdate2</key>
 <dict>
 <key>Forced</key>
 <array>
